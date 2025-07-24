@@ -1,8 +1,6 @@
-# 🚀 Colab Desktop
+# 🚀 Colab Desktop <img src="icon/colab_go.png" alt="Colab Desktop" width="48" height="48" align="right">
 
 A modern desktop wrapper for Google Colab built with Electron, providing a native app experience with enhanced features and keyboard shortcuts.
-
-![Colab Desktop](icon/colab_go.png)
 
 ## ✨ Features
 
